@@ -1,2 +1,8 @@
 # iling-iling-v1
-final project pemrograman mobile
+Sebuah aplikasi sederhana bernama iling-iling/reminder sebagai tugas final project pengganti UAS mata kuliah pemrograman mobile
+
+Ali Mahmudi
+14.11.8288
+From PATI, JATENG
+
+Universitas AMIKOM Yogyakarta
